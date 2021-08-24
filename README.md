@@ -14,6 +14,6 @@ yarn run android
 ```
    [React Native CLI]: <https://reactnative.dev/>
    
-## Screenshots
+## Screenshot
 
 ![App Screenshot](https://i.imgur.com/M2hsVHg.png)
