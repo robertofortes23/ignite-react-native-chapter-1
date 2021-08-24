@@ -1,6 +1,3 @@
-# ignite-react-native-chapter-1
-Conteúdo do Ignite. Trilha React Native. To-do APP.
-
 # Ignite React Native Chapter 1
 ### _Conteúdo do Ignite. Trilha React Native. To-do APP._
 
