@@ -12,8 +12,8 @@ cd ignite-react-native-chapter-1
 yarn start
 yarn run android
 ```
-   [React Native]: <https://reactnative.dev/>
+   [React Native CLI]: <https://reactnative.dev/>
    
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/wNkuM9H.png)
+![App Screenshot](https://i.imgur.com/M2hsVHg.png)
